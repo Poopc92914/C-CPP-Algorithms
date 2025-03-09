@@ -20,7 +20,7 @@ This program checks whether a given positive integer is a palindrome. A palindro
 To compile and run the program, use the following commands in a terminal:
 
 ```sh
-gcc palindrome_check.c -o palindrome_check
+gcc palindrome_checker.c -o palindrome_checker
 ./palindrome_check
 ```
 
@@ -46,5 +46,11 @@ Closing the program. Goodbye!
 - Checks if the given integer is a palindrome.
 - Returns `1` if the number is a palindrome, `0` otherwise.
 
+## Limitations
+- The program does not handle numbers that exceed the maximum value of an `int`, which may cause integer overflow.
+- It only works with positive integers and does not check for palindromes in negative numbers or floating-point numbers.
+- If an extremely large number is entered, it may cause undefined behavior due to memory constraints.
+
 ## License
 This project is released under the MIT License.
+
