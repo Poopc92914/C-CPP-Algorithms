@@ -21,7 +21,7 @@ To compile and run the program, use the following commands in a terminal:
 
 ```sh
 gcc palindrome_checker.c -o palindrome_checker
-./palindrome_check
+./palindrome_checker
 ```
 
 ## Example Usage
