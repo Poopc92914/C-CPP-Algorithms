@@ -1,4 +1,4 @@
-# Palindrome Check
+# Palindrome Checker
 
 ## Description
 This program checks whether a given positive integer is a palindrome. A palindrome is a number that reads the same forward and backward. The program continuously prompts the user for input until they enter `0` to exit.
