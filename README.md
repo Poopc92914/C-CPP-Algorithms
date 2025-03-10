@@ -12,6 +12,7 @@ This repository contains a collection of algorithmic challenges and problem-solv
 - **Dynamic Programming**
 - **Graph Algorithms**
 - **String Algorithms** (Palindrome check, Anagram detection, etc.)
+- **Number Manipulation**
 
 ## How to Use
 1. Clone the repository:
