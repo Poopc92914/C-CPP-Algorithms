@@ -52,9 +52,11 @@ int get_valid_input(){
 
         }
 
-        return input; // Return the valid input
+        break;
+        
+    }
 
-    } 
+    return input; // Return the valid input
 
 }
 
